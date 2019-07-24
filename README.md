@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/phonegap-plugin-ringer-mode.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/phonegap-plugin-ringer-mode/)
+
 # phonegap-plugin-ringer-mode
 
 This plugin lets you set and get the ringer mode on Android platform
